@@ -13,7 +13,6 @@ section {
 article {
     display: inline-block;
     min-width: 150px;
-    background-color: blue;
     margin-bottom: 30px;
     color: white;
     font-weight: bold;
@@ -22,4 +21,20 @@ article {
 .code {
     font-style: italic;
     font-weight: normal;
+}
+
+.Blueberry {
+    background-color: #6B7A8F
+}
+
+.Apricot {
+    background-color: #F7882F
+}
+
+.Citrus {
+    background-color: #F7C331
+}
+
+.Apple_Core {
+    background-color: #DCC7AA
 }
