@@ -1,0 +1,25 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+section {
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 10px auto;
+    max-width: 700px;
+}
+
+article {
+    display: inline-block;
+    min-width: 150px;
+    background-color: blue;
+    margin-bottom: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.code {
+    font-style: italic;
+    font-weight: normal;
+}
